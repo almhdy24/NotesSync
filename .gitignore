@@ -1,0 +1,13 @@
+# Android build files
+/android/app/build/
+/android/.gradle/
+/android/local.properties
+
+# PHP backend vendor
+/backend/vendor/
+
+# Node modules for web
+/web/node_modules/
+
+/*.log
+*.env
